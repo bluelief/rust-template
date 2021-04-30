@@ -7,18 +7,18 @@
   </summary>
   <div>
 
-## x.y.z (20xx-xx-xx)
+## 1.1.0 (2021-xx-xx)
 
 
 ### Added
 
-- xxxx
+- Doc: Add badge to readme
 - xxxx
 
 
 ### Changed
 
-- xxxx
+- ci: Change only run CI for master branch
 - xxxx
 
 
