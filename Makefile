@@ -16,7 +16,7 @@ CARGO=docker run --rm \
 
 
 .PHONY: all
-all: check build
+all: prebuild build
 
 
 .PHONY: build
